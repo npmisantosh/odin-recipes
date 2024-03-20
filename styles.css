@@ -1,0 +1,12 @@
+.container{
+display: inline;
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+    border: 2px;
+    border-color: black;
+    margin: auto;
+}
+.main_container{
+    align-items: center;
+}
