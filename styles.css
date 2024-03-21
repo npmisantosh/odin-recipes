@@ -1,12 +1,7 @@
-.container{
-display: inline;
-    background-color: lightblue;
-    color: black;
-    padding: 10px;
-    border: 2px;
-    border-color: black;
-    margin: auto;
+body{
+    margin: 0;
+    padding: 0;
 }
-.main_container{
-    align-items: center;
+h1{
+    
 }
