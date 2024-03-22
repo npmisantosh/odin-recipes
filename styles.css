@@ -1,10 +1,11 @@
 .maincontainer{
     display: flex;
+    justify-content: space-between;
 
 }
 .linkbox{
-    flex: 1;
     display: inline;
+    
 }
 
 .link{
@@ -14,10 +15,6 @@
 }
 a{
     text-decoration: none;
-}
-.foodimg{
-    width: 100px;
-    height: 100px;
 }
 
 h1{
