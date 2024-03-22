@@ -1,8 +1,22 @@
-.maincontainer{
+.mainmain{
     display: flex;
     justify-content: space-between;
+}
+
+
+.maincontainer{
+    display: flex;
+    display: inline;
+    flex-grow: 1;
 
 }
+
+.maincontainer2{
+    display: flex;
+    display: inline;
+
+}
+
 .linkbox{
     display: inline;
     
