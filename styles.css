@@ -15,3 +15,12 @@
 a{
     text-decoration: none;
 }
+.foodimg{
+    width: 100px;
+    height: 100px;
+}
+
+h1{
+    background-color: BLack;
+    color: white;
+}
