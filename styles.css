@@ -1,21 +1,17 @@
-body{
-    margin: 0;
-    padding: 0;
-    background-color: gray;
-}
-.container{
-    background-color: lightgreen;
-    padding: 0px;
-    width: 300px;
-}
-
-
 .maincontainer{
     display: flex;
-    background-color: white;
-    justify-content: space-evenly;
+
+}
+.linkbox{
+    flex: 1;
+    display: inline;
 }
 
-.container{
-flex:1 1 auto;
+.link{
+    background-color: BLack;
+    padding: 5px;
+    color: white;
+}
+a{
+    text-decoration: none;
 }
